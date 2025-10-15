@@ -56,7 +56,7 @@ For detailed analysis of score distributions, gender, race, lunch type, and pare
 ![Race Performance](./performance_by_race.png)
 
 #### 🎓 Parental Education Dashboard
-![Parental Education](./impact_of_parental_education.png)
+![Parental Education](./impact_of_perantal_education.png)
 
 #### 🍱 Lunch Effect on Performance Dashboard
 ![Lunch Effect on Performance](./effect_lunch_performance.png)
