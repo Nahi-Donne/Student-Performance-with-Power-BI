@@ -47,7 +47,7 @@ For detailed analysis of score distributions, gender, race, lunch type, and pare
 ## 📊 Dashboard Preview
 
 #### 🎯 Overview Dashboard
-![Overview Dashboard](./overview_score.png)
+![Overview Dashboard](./Nahi-Donne-Images/overview_score.png)
 
 #### 👩‍🎓 Gender Performance Dashboard
 ![Gender Performance](./performance_by_gender.png)
