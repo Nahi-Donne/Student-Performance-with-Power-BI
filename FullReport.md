@@ -1,6 +1,4 @@
-##### **1.The distributions of scores among students**
-
-
+## **1.The distributions of scores among students**
 
 Math Performance: The data indicates that 86.5% of students scored 50 or higher out of 100, suggesting overall strong performance in the subject.
 
@@ -10,9 +8,9 @@ Writing Performance: 88.6% of students scored 50 or higher out of 100, making th
 
 
 
-##### **2. Performance by Gender**
+## **2. Performance by Gender**
 
-###### **MATHS**
+#### **MATH**
 
 
 
@@ -64,7 +62,7 @@ Extreme low and high scores are rare for both groups, indicating a generally bal
 
 
 
-###### **READING**
+#### **READING**
 
 
 
@@ -101,7 +99,7 @@ The data highlights a clear gender gap in reading achievement, favoring female s
 
 
 
-###### **WRITING**
+#### **WRITING**
 
 
 
@@ -129,8 +127,6 @@ The data highlights a clear gender gap in reading achievement, favoring female s
 
 **Summary**
 
-
-
 The distribution of writing scores shows that female students perform significantly better than male students.
 
 While both genders cluster around the 50–80 score range, female students are more prevalent in higher score bands (70–90), indicating stronger writing ability.
@@ -145,9 +141,9 @@ Overall, Gender Performance: There are 80 male students and 118 female students 
 
 
 
-##### **3.  Performance by Race/Ethnicity**
+## **3.  Performance by Race/Ethnicity**
 
-###### **MATHS**
+#### **MATH**
 
 
 
@@ -195,7 +191,7 @@ Groups C and D demonstrate relatively stronger performance and concentration of 
 
 
 
-###### **READING**
+#### **READING**
 
 
 
@@ -251,7 +247,7 @@ while Groups A, B, and E show more variability or fewer high-performing students
 
 
 
-###### **WRITING**
+#### **WRITING**
 
 
 
@@ -302,9 +298,9 @@ Groups B, C, and D perform strongest overall, while Group A shows lower scores a
 
 
 
-##### **4. Impact of Parental education**
+## **4. Impact of Parental education**
 
-###### **MATH**
+#### **MATH**
 
 
 
@@ -320,7 +316,7 @@ In contrast, students whose parents have only master and bachelor degree are few
 
 
 
-###### **READING**
+#### **READING**
 
 
 
@@ -338,7 +334,7 @@ In contrast, students whose parents have only master degree are fewer across mos
 
 
 
-###### **WRITING**
+#### **WRITING**
 
 
 
@@ -354,9 +350,9 @@ In contrast, students whose parents hold a master’s degree are fewer in number
 
 
 
-##### **5. Effect of Lunch on Performance**
+## **5. Effect of Lunch on Performance**
 
-###### **MATH**
+#### **MATH**
 
 
 
@@ -372,7 +368,7 @@ In contrast, students receiving free/reduced lunch are more concentrated in the 
 
 
 
-###### **READING**
+#### **READING**
 
 
 
@@ -384,7 +380,7 @@ The reading score distribution follows an approximately normal pattern. Students
 
 
 
-###### **WRITING**
+#### **WRITING**
 
 
 
@@ -398,7 +394,7 @@ The writing score distribution appears roughly normal. Students with a standard 
 
 
 
-##### **6. Impact of Test Preparation course**
+## **6. Impact of Test Preparation course**
 
 
 
@@ -413,6 +409,7 @@ Although most students (64%) did not complete the test preparation course, those
 
 
 The distribution chart reinforces this by showing that students who completed the course tend to cluster at higher math, reading and writing scores, indicating that the test preparation course has a positive impact on performance, even though fewer students participated in it.
+
 
 
 
