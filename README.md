@@ -47,26 +47,26 @@ For detailed analysis of score distributions, gender, race, lunch type, and pare
 ## 📊 Dashboard Preview
 
 #### 🎯 Overview Dashboard
-![Overview Dashboard](./Images_Performance/overview_score.png)
+![Overview Dashboard](./overview_score.png)
 
 #### 👩‍🎓 Gender Performance Dashboard
-![Gender Performance](./Images_Performance/performance_by_gender.png)
+![Gender Performance](./performance_by_gender.png)
 
 #### 🌍 Race Performance Dashboard
-![Race Performance](./Images_Performance/performance_by_race.png)
+![Race Performance](./performance_by_race.png)
 
 #### 🎓 Parental Education Dashboard
-![Parental Education](./Images_Performance/impact_of_parental_education.png)
+![Parental Education](./impact_of_parental_education.png)
 
 #### 🍱 Lunch Effect on Performance Dashboard
-![Lunch Effect on Performance](./Images_Performance/effect_lunch_performance.png)
+![Lunch Effect on Performance](./effect_lunch_performance.png)
 
 #### 🧠 Test Preparation Impact Dashboard
-![Test Preparation Impact](./Images_Performance/test_prep_impact.png)
+![Test Preparation Impact](./test_prep_impact.png)
 
 #### Score Correlation Dashboard
-![Score Correlation](./Images_Performance/correlation.png)
+![Score Correlation](./correlation.png)
 
 #### Performance Category Dashboard
-![Performance Category](./Images_Performance/performance_category.png)
+![Performance Category](./performance_category.png)
 
