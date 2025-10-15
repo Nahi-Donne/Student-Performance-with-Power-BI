@@ -44,3 +44,29 @@ The dataset used contains information on:
   
 For detailed analysis of score distributions, gender, race, lunch type, and parental education, see the [Full Report](FullReport.md).
 
+## 📊 Dashboard Preview
+
+#### 🎯 Overview Dashboard
+![Overview Dashboard](./overview_score.png)
+
+#### 👩‍🎓 Gender Performance Dashboard
+![Gender Performance](./performance_by_gender.png)
+
+#### 🌍 Race Performance Dashboard
+![Race Performance](./performance_by_race.png)
+
+#### 🎓 Parental Education Dashboard
+![Parental Education](./impact_of_parental_education.png)
+
+#### 🍱 Lunch Effect on Performance Dashboard
+![Lunch Effect on Performance](./effect_lunch_performance.png)
+
+#### 🧠 Test Preparation Impact Dashboard
+![Test Preparation Impact](./test_prep_impact.png)
+
+#### Score Correlation Dashboard
+![Score Correlation](./correlation.png)
+
+#### Performance Category Dashboard
+![Performance Category](./performance_category.png)
+
