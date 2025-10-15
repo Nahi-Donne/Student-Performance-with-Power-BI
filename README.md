@@ -46,7 +46,7 @@ For detailed analysis of score distributions, gender, race, lunch type, and pare
 
 ## 👤 Author
 **Dieudonné Nahimana**  
-📧 [nahimana.dieudo@gmail.com](donnenahi@gmail.com)  
+📧 [donnenahi@gmail.com](donnenahi@gmail.com)  
 🌐 [LinkedIn Profile](https://www.linkedin.com/in/nahimana-dieudonn%C3%A9-99b4a9200/)
 
 ## 📊 Dashboard Preview
