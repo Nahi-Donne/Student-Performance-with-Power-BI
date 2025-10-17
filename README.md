@@ -23,9 +23,9 @@ The dashboard explores how factors such as **gender**, **parental education**, *
 ---
 
 ## 📁 Dataset
-Dataset Information
-The dataset used in this project was obtained from [Kaggle](https://www.kaggle.com/datasets/saadaliyaseen/exploring-student-achievement-trends/data), originally published as part of Exploring Student Achievement Trends dataset.
-The dataset used contains information on:
+Dataset Information <br>
+The dataset used in this project was obtained from [Kaggle](https://www.kaggle.com/datasets/saadaliyaseen/exploring-student-achievement-trends/data), originally published as part of Exploring Student Achievement Trends dataset.<br>
+The dataset used contains information on:<br>
 - Gender  
 - Parental education level  
 - Lunch type  
