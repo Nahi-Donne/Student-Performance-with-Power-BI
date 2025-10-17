@@ -1,7 +1,7 @@
 # Student-Performance-with-Power-BI
 Power BI analysis of student performance dataset
 ---
-📊 Project Overview
+📊 Project Overview <br>
 The dashboard explores how factors such as **gender**, **parental education**, **lunch type**, **Race/Ethnicity**, and **Test Preparation course** affect student scores in **Math**, **Reading**, and **Writing**.
 
 
